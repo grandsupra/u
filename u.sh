@@ -1,0 +1,1 @@
+sudo apt update && sudo apt upgrade -y && sudo apt install gnome-session gnome-terminal gdm3 nautilus gnome-tweaks gnome-shell-extensions gnome-shell-extension-ubuntu-dock yaru-theme-gtk yaru-theme-icon -y && sudo snap install firefox && sudo reboot
